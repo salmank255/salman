@@ -18,9 +18,6 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Sk
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I am a Research Fellow at the Visual Artificial Intelligence Laboratory, Oxford Brookes University. I have completed my PhD in 2023 under the supervision of [Prof. Fabio Cuzzolin](https://cms.brookes.ac.uk/staff/FabioCuzzolin/) at the same institution. Prior to this, I completed my Master's in 2020 at Sejong University, South Korea, supervised by [Prof. Sung Wook Baik](https://sejong.elsevierpure.com/en/persons/sung-wook-baik) and [Dr. Khan Muhammad](https://scholar.google.co.kr/citations?user=k5oUZyQAAAAJ&hl=en). My research focuses on action and activity recognition/detection, epistemic uncertainty,  continual learning, surgical robotics, and fire & smoke detection/segmentation. I am deeply committed to pushing the boundaries of AI's capabilities and collaborating with fellow researchers to address complex challenges in the field.
 
 [Email](mailto:salmankhan@brookes.ac.uk) / [Google Scholar](https://scholar.google.co.kr/citations?user=0kXugtIAAAAJ&hl=en) /[GitHub](https://github.com/salmank255) /[LinkedIn](https://www.linkedin.com/feed/) 
