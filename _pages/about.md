@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: Research Fellow, <a href='https://www.brookes.ac.uk/research/units/tde/groups/visual-artificial-intelligence-laboratory'>Visual Artificial Intelligence Laboratory</a>, Oxford Brookes University, Oxford, UK
 
