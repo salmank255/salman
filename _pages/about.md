@@ -9,8 +9,7 @@ profile:
   image: salman.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>E-138, E block</p>
-    <p>Wheatley Campus, Oxford Brookes, University</p>
+    <p>E-138, Wheatley Campus, Oxford Brookes, University </p>
     <p>Oxford (OX33 1HX), United Kingdom</p>
 
 news: true  # includes a list of news items
@@ -24,4 +23,4 @@ Write your biography here. Tell the world about yourself. Link to your favorite 
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
-[Email](http://fortawesome.github.io/Font-Awesome/) / [Google Scholar](http://fortawesome.github.io/Font-Awesome/) /[Google Scholar](http://fortawesome.github.io/Font-Awesome/) /[Google Scholar](http://fortawesome.github.io/Font-Awesome/) /[Google Scholar](http://fortawesome.github.io/Font-Awesome/) / 
+[Email](mailto:salmankhan@brookes.ac.uk) / [Google Scholar](https://scholar.google.co.kr/citations?user=0kXugtIAAAAJ&hl=en) /[GitHub](https://github.com/salmank255) /[LinkedIn](https://www.linkedin.com/feed/) 
